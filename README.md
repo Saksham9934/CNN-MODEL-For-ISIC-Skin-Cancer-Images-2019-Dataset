@@ -1,6 +1,7 @@
 # CNN-MODEL
+CNN-MODEL-For-ISIC-2019-Dataset-Skin-Cancer-Images-(31,126 images)
 
-Project Title: CNN Model for Skin Cancer Detection and Classification
+Project Title: CNN Model for Skin Cancer Detection, Classification, Training And Quantitaive Results...
 
 Description:
 This project utilizes a Convolutional Neural Network (CNN) model to detect and classify skin cancer using Python programming in Jupyter Notebook. The model aims to assist in early detection and diagnosis of skin cancer, improving patient outcomes.
